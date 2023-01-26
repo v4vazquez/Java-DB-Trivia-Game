@@ -1,6 +1,6 @@
 # Java Database Trivia Game
 
-A simple Java CLI trivia game with a SQL backend.
+A Java CLI trivia game with a SQL backend.
 
 ## Description
 
